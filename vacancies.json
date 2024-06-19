@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Frontend developer",
+    "url": "https://api.hh.ru/vacancies/101939534?host=hh.ru",
+    "employer_name": "GreatSoft",
+    "salary": {
+      "from": 5000000,
+      "to": 15000000,
+      "currency": "UZS"
+    }
+  },
+  {
+    "name": "Junior Python разработчик / IT / (удаленно)",
+    "url": "https://api.hh.ru/vacancies/101276173?host=hh.ru",
+    "employer_name": "Зерокодер",
+    "salary": {
+      "from": 70000,
+      "to": 100000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Junior Python Django developer",
+    "url": "https://api.hh.ru/vacancies/101871676?host=hh.ru",
+    "employer_name": "Протектор",
+    "salary": {
+      "from": null,
+      "to": 120000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Стажер-разработчик",
+    "url": "https://api.hh.ru/vacancies/101709026?host=hh.ru",
+    "employer_name": "Строй-Отделка",
+    "salary": {
+      "from": 50000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Стажер Data-аналитик в рисках",
+    "url": "https://api.hh.ru/vacancies/101605356?host=hh.ru",
+    "employer_name": "Kcell",
+    "salary": {
+      "from": 72000,
+      "to": null,
+      "currency": "KZT"
+    }
+  },
+  {
+    "name": "Стажер-разработчик Python",
+    "url": "https://api.hh.ru/vacancies/94354526?host=hh.ru",
+    "employer_name": "Додо Пицца",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Программист Python (Junior)",
+    "url": "https://api.hh.ru/vacancies/101851402?host=hh.ru",
+    "employer_name": "Айти - Альбион",
+    "salary": {
+      "from": 30000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Django разработчик",
+    "url": "https://api.hh.ru/vacancies/101732827?host=hh.ru",
+    "employer_name": "zGroup-IT",
+    "salary": {
+      "from": 60000,
+      "to": 180000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Junior Data Engineer",
+    "url": "https://api.hh.ru/vacancies/102108379?host=hh.ru",
+    "employer_name": "ForteBank",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "KZT"
+    }
+  },
+  {
+    "name": "Python backend developer",
+    "url": "https://api.hh.ru/vacancies/101904521?host=hh.ru",
+    "employer_name": "Максимал",
+    "salary": {
+      "from": 120000,
+      "to": 180000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Младший аналитик",
+    "url": "https://api.hh.ru/vacancies/101332000?host=hh.ru",
+    "employer_name": "МТС",
+    "salary": {
+      "from": null,
+      "to": 100000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "QA Engineer в IT-компании Junior+",
+    "url": "https://api.hh.ru/vacancies/101530574?host=hh.ru",
+    "employer_name": "Агент Умный полис",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Frontend-разработчик",
+    "url": "https://api.hh.ru/vacancies/101853838?host=hh.ru",
+    "employer_name": "SmartCall",
+    "salary": {
+      "from": 500000,
+      "to": null,
+      "currency": "KZT"
+    }
+  },
+  {
+    "name": "Технический писатель",
+    "url": "https://api.hh.ru/vacancies/102155373?host=hh.ru",
+    "employer_name": "SberTech",
+    "salary": {
+      "from": null,
+      "to": 400000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://api.hh.ru/vacancies/101998011?host=hh.ru",
+    "employer_name": "Стандарт",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Python backend developer",
+    "url": "https://api.hh.ru/vacancies/101982971?host=hh.ru",
+    "employer_name": "LITE Gallery",
+    "salary": {
+      "from": 140000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Junior Python разработчик",
+    "url": "https://api.hh.ru/vacancies/101917777?host=hh.ru",
+    "employer_name": "Виста",
+    "salary": {
+      "from": 60000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://api.hh.ru/vacancies/100742575?host=hh.ru",
+    "employer_name": "Сошал Системс",
+    "salary": {
+      "from": 150000,
+      "to": 250000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "QA Engineer (Middle)",
+    "url": "https://api.hh.ru/vacancies/102100553?host=hh.ru",
+    "employer_name": "Риверстарт",
+    "salary": {
+      "from": 150000,
+      "to": 180000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Python-Django Разработчик",
+    "url": "https://api.hh.ru/vacancies/101091818?host=hh.ru",
+    "employer_name": "Aydarv.PRO",
+    "salary": {
+      "from": 70000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Junior Python Developer",
+    "url": "https://api.hh.ru/vacancies/100346071?host=hh.ru",
+    "employer_name": "КНОПКАДЕНЬГИ",
+    "salary": {
+      "from": null,
+      "to": 200000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Тестировщик",
+    "url": "https://api.hh.ru/vacancies/99701439?host=hh.ru",
+    "employer_name": "Фабрика информационных технологий",
+    "salary": {
+      "from": 75000,
+      "to": 95000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Trainee/Intern/Junior Python backend developer",
+    "url": "https://api.hh.ru/vacancies/101951553?host=hh.ru",
+    "employer_name": "Рекруто",
+    "salary": {
+      "from": 10000,
+      "to": 30000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Аналитик Python",
+    "url": "https://api.hh.ru/vacancies/101282288?host=hh.ru",
+    "employer_name": "ГКУ ЦБУИО ДЗМ",
+    "salary": {
+      "from": 120000,
+      "to": 150000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Python developer",
+    "url": "https://api.hh.ru/vacancies/102149201?host=hh.ru",
+    "employer_name": "Offer Now",
+    "salary": {
+      "from": null,
+      "to": 400000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Преподаватель по робототехнике и программированию",
+    "url": "https://api.hh.ru/vacancies/102182938?host=hh.ru",
+    "employer_name": "Ruba Technology",
+    "salary": {
+      "from": 300000,
+      "to": null,
+      "currency": "KZT"
+    }
+  },
+  {
+    "name": "Junior Game Designer (Balance)",
+    "url": "https://api.hh.ru/vacancies/99086642?host=hh.ru",
+    "employer_name": "Matryoshka Games",
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "СЕОшник",
+    "url": "https://api.hh.ru/vacancies/101795328?host=hh.ru",
+    "employer_name": "Спасение Нн",
+    "salary": {
+      "from": 180000,
+      "to": 300000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "C++ developer to Berlin",
+    "url": "https://api.hh.ru/vacancies/99964578?host=hh.ru",
+    "employer_name": "think-cell",
+    "salary": {
+      "from": 7500,
+      "to": 10834,
+      "currency": "EUR"
+    }
+  },
+  {
+    "name": "Аналитик второй линии поддержки",
+    "url": "https://api.hh.ru/vacancies/102152938?host=hh.ru",
+    "employer_name": "ЮТэйр, Авиакомпания",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Аналитик",
+    "url": "https://api.hh.ru/vacancies/100048052?host=hh.ru",
+    "employer_name": "Manpower",
+    "salary": {
+      "from": 170000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Начинающий аналитик",
+    "url": "https://api.hh.ru/vacancies/102049829?host=hh.ru",
+    "employer_name": "Ростелеком",
+    "salary": {
+      "from": 55407,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "QA-Инженер (Тестировщик)",
+    "url": "https://api.hh.ru/vacancies/96509886?host=hh.ru",
+    "employer_name": "WBS",
+    "salary": {
+      "from": 250000,
+      "to": 600000,
+      "currency": "KZT"
+    }
+  },
+  {
+    "name": "Стажер в Data Scientist/ML",
+    "url": "https://api.hh.ru/vacancies/101926206?host=hh.ru",
+    "employer_name": "DEVAKE LLC",
+    "salary": {
+      "from": 50000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Системный администратор / Руководитель (СTO)",
+    "url": "https://api.hh.ru/vacancies/102020251?host=hh.ru",
+    "employer_name": "Единые Решения",
+    "salary": {
+      "from": 8000,
+      "to": null,
+      "currency": "BYR"
+    }
+  },
+  {
+    "name": "Python developer (Junior)",
+    "url": "https://api.hh.ru/vacancies/101219641?host=hh.ru",
+    "employer_name": "DNS Технологии",
+    "salary": {
+      "from": 70000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Разработчик Python / Django",
+    "url": "https://api.hh.ru/vacancies/101077785?host=hh.ru",
+    "employer_name": "AlfaBit",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Главный специалист (электронный документооборот)",
+    "url": "https://api.hh.ru/vacancies/102156888?host=hh.ru",
+    "employer_name": "БУ ВО ЦИТ",
+    "salary": {
+      "from": null,
+      "to": 70000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Младший python-разработчик",
+    "url": "https://api.hh.ru/vacancies/99725937?host=hh.ru",
+    "employer_name": "Финансово-правовой альянс",
+    "salary": {
+      "from": 85000,
+      "to": 100000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Веб-программист",
+    "url": "https://api.hh.ru/vacancies/100058774?host=hh.ru",
+    "employer_name": "Cetera",
+    "salary": {
+      "from": 48000,
+      "to": 140000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Python Backend разработчик",
+    "url": "https://api.hh.ru/vacancies/101347651?host=hh.ru",
+    "employer_name": "ФГБНУ ФИЦ Почвенный Институт Имени В.В. Докучаева",
+    "salary": {
+      "from": 80000,
+      "to": 120000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Трейдер",
+    "url": "https://api.hh.ru/vacancies/101741969?host=hh.ru",
+    "employer_name": "Спутник-Управление капиталом, УК",
+    "salary": {
+      "from": null,
+      "to": 200000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://api.hh.ru/vacancies/101746208?host=hh.ru",
+    "employer_name": "RLT",
+    "salary": {
+      "from": 50000,
+      "to": 70000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Разработчик Python/Django",
+    "url": "https://api.hh.ru/vacancies/102078261?host=hh.ru",
+    "employer_name": "Куаликс",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Программист-разработчик",
+    "url": "https://api.hh.ru/vacancies/101746634?host=hh.ru",
+    "employer_name": "Джакупова",
+    "salary": {
+      "from": 500000,
+      "to": 1000000,
+      "currency": "KZT"
+    }
+  },
+  {
+    "name": "IOS разработчик (международный проект)",
+    "url": "https://api.hh.ru/vacancies/101784536?host=hh.ru",
+    "employer_name": "Reactive Phone",
+    "salary": {
+      "from": 200000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "QA инженер",
+    "url": "https://api.hh.ru/vacancies/101826363?host=hh.ru",
+    "employer_name": "Транснефтьэнерго",
+    "salary": {
+      "from": null,
+      "to": 180000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Backend программист",
+    "url": "https://api.hh.ru/vacancies/101748030?host=hh.ru",
+    "employer_name": "ХайТек Плант",
+    "salary": {
+      "from": 70000,
+      "to": 100000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Middle Python Developer",
+    "url": "https://api.hh.ru/vacancies/102136724?host=hh.ru",
+    "employer_name": "Цай Галина Вячеславовна",
+    "salary": {
+      "from": 200000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Middle Python Developer",
+    "url": "https://api.hh.ru/vacancies/102188579?host=hh.ru",
+    "employer_name": "Retail Rocket",
+    "salary": {
+      "from": 150000,
+      "to": 250000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Junior Frontend-developer (Vue.js)",
+    "url": "https://api.hh.ru/vacancies/102077181?host=hh.ru",
+    "employer_name": "Радиофид",
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://api.hh.ru/vacancies/101793114?host=hh.ru",
+    "employer_name": "Garden of Dreams",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Junior - разработчик",
+    "url": "https://api.hh.ru/vacancies/101169358?host=hh.ru",
+    "employer_name": "Media 108",
+    "salary": {
+      "from": 80000,
+      "to": 90000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Программист",
+    "url": "https://api.hh.ru/vacancies/102195765?host=hh.ru",
+    "employer_name": "Атлант",
+    "salary": {
+      "from": 70000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Программист",
+    "url": "https://api.hh.ru/vacancies/101787332?host=hh.ru",
+    "employer_name": "Бот Конструктор БК",
+    "salary": {
+      "from": 120000,
+      "to": 215000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Bitrix || Joomla || PHP - программист разработчик / УДАЛЕННО",
+    "url": "https://api.hh.ru/vacancies/101834713?host=hh.ru",
+    "employer_name": "РОСТСАЙТ",
+    "salary": {
+      "from": null,
+      "to": 100000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Data analyst",
+    "url": "https://api.hh.ru/vacancies/100843013?host=hh.ru",
+    "employer_name": "СБЕР",
+    "salary": {
+      "from": 180000,
+      "to": 230000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "WEB - Программист",
+    "url": "https://api.hh.ru/vacancies/101327408?host=hh.ru",
+    "employer_name": "Talk&Call",
+    "salary": {
+      "from": 350000,
+      "to": 400000,
+      "currency": "KZT"
+    }
+  },
+  {
+    "name": "Prompt-инженер / Менеджер AI / AI ARTIST",
+    "url": "https://api.hh.ru/vacancies/100071705?host=hh.ru",
+    "employer_name": "Mayd Production",
+    "salary": {
+      "from": 70000,
+      "to": 120000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Python Backend разработчик",
+    "url": "https://api.hh.ru/vacancies/99609038?host=hh.ru",
+    "employer_name": "ЭдПро",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Бизнес - аналитик",
+    "url": "https://api.hh.ru/vacancies/99259617?host=hh.ru",
+    "employer_name": "Филиал АО Сибпромпроект г. Москва",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Аналитик данных IVR",
+    "url": "https://api.hh.ru/vacancies/101751141?host=hh.ru",
+    "employer_name": "СБЕР",
+    "salary": {
+      "from": 45000,
+      "to": 50000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Биоинформатик",
+    "url": "https://api.hh.ru/vacancies/101948741?host=hh.ru",
+    "employer_name": "ГБУЗ Московский Научно-Практический Центр Лабораторных Исследований Департамента Здравоохранения Города Москвы",
+    "salary": {
+      "from": 150000,
+      "to": 200000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Data scientist junior (младший научный сотрудник)",
+    "url": "https://api.hh.ru/vacancies/99754606?host=hh.ru",
+    "employer_name": "ФГБУН Институт психологии Российской академии наук",
+    "salary": {
+      "from": 124752,
+      "to": 124752,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "PHP-developer / PHP-разработчик (backend)",
+    "url": "https://api.hh.ru/vacancies/101455256?host=hh.ru",
+    "employer_name": "Доставка-Сервис",
+    "salary": {
+      "from": 120000,
+      "to": 180000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Middle Backend разработчик (Django)",
+    "url": "https://api.hh.ru/vacancies/102154373?host=hh.ru",
+    "employer_name": "One Corporated",
+    "salary": {
+      "from": 500000,
+      "to": 650000,
+      "currency": "KZT"
+    }
+  },
+  {
+    "name": "Стажер-аналитик",
+    "url": "https://api.hh.ru/vacancies/101377787?host=hh.ru",
+    "employer_name": "Bewise.ai",
+    "salary": {
+      "from": null,
+      "to": 35000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Junior QA-Engineer",
+    "url": "https://api.hh.ru/vacancies/101645763?host=hh.ru",
+    "employer_name": "РБ",
+    "salary": {
+      "from": null,
+      "to": 70000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Инженер технической поддержки ПО вендора (2 линия)",
+    "url": "https://api.hh.ru/vacancies/102073702?host=hh.ru",
+    "employer_name": "Avanpost",
+    "salary": {
+      "from": 140000,
+      "to": 163000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Разработчик AI-решений (python + no-code платформы)",
+    "url": "https://api.hh.ru/vacancies/99862545?host=hh.ru",
+    "employer_name": "AGI Labs",
+    "salary": {
+      "from": 120000,
+      "to": 200000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Младший специалист-аналитик / ВТБ РОСТ",
+    "url": "https://api.hh.ru/vacancies/99567109?host=hh.ru",
+    "employer_name": "Банк ВТБ (ПАО)",
+    "salary": {
+      "from": 100000,
+      "to": 100000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Junior Data Scientist (NLP)",
+    "url": "https://api.hh.ru/vacancies/99925785?host=hh.ru",
+    "employer_name": "Молвер",
+    "salary": {
+      "from": 60000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Инженер по тестированию",
+    "url": "https://api.hh.ru/vacancies/99843629?host=hh.ru",
+    "employer_name": "Компэл",
+    "salary": {
+      "from": 120000,
+      "to": 250000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Тестировщик",
+    "url": "https://api.hh.ru/vacancies/100460992?host=hh.ru",
+    "employer_name": "Точка Маркетплейсы",
+    "salary": {
+      "from": null,
+      "to": 250000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Junior+ Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/99917390?host=hh.ru",
+    "employer_name": "Spectr",
+    "salary": {
+      "from": null,
+      "to": 100000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "QA-инженер",
+    "url": "https://api.hh.ru/vacancies/102168779?host=hh.ru",
+    "employer_name": "Фланг",
+    "salary": {
+      "from": 50000,
+      "to": 90000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Project manager Junior",
+    "url": "https://api.hh.ru/vacancies/99594654?host=hh.ru",
+    "employer_name": "CRTEX",
+    "salary": {
+      "from": 60000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "QA тестировщик",
+    "url": "https://api.hh.ru/vacancies/100463062?host=hh.ru",
+    "employer_name": "DCloud",
+    "salary": {
+      "from": 140000,
+      "to": 240000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Python Developer в команду разработки протокола хранения данных (Казань)",
+    "url": "https://api.hh.ru/vacancies/101827373?host=hh.ru",
+    "employer_name": "DeNet",
+    "salary": {
+      "from": 60000,
+      "to": 145000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Junior iOS разработчик",
+    "url": "https://api.hh.ru/vacancies/101736380?host=hh.ru",
+    "employer_name": "Сервис Руки",
+    "salary": {
+      "from": 50000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "JS frontend developer",
+    "url": "https://api.hh.ru/vacancies/101748364?host=hh.ru",
+    "employer_name": "МЕДГАРАНТ",
+    "salary": {
+      "from": 60000,
+      "to": 60000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Программист",
+    "url": "https://api.hh.ru/vacancies/102130425?host=hh.ru",
+    "employer_name": "ЦЦТ СИСТЕМС86",
+    "salary": {
+      "from": 20000,
+      "to": 50000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Trader at crypto market-making company",
+    "url": "https://api.hh.ru/vacancies/101501407?host=hh.ru",
+    "employer_name": "Mids.capital",
+    "salary": {
+      "from": 150000,
+      "to": 200000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Python middle developer",
+    "url": "https://api.hh.ru/vacancies/101732019?host=hh.ru",
+    "employer_name": "Go Global",
+    "salary": {
+      "from": 110000,
+      "to": 150000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "IT Field Support Engineer",
+    "url": "https://api.hh.ru/vacancies/101866071?host=hh.ru",
+    "employer_name": "TargetAI Limited",
+    "salary": {
+      "from": null,
+      "to": 500000,
+      "currency": "KZT"
+    }
+  },
+  {
+    "name": "Аналитик в команду аналитики данных",
+    "url": "https://api.hh.ru/vacancies/99132580?host=hh.ru",
+    "employer_name": "Группа компаний МЕДСИ",
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Веб-разработчик",
+    "url": "https://api.hh.ru/vacancies/101791329?host=hh.ru",
+    "employer_name": "ЭВОТЕК ЦЕНТРАЛЬНАЯ АЗИЯ (Evotech CA)",
+    "salary": {
+      "from": 250000,
+      "to": null,
+      "currency": "KZT"
+    }
+  },
+  {
+    "name": "Программист",
+    "url": "https://api.hh.ru/vacancies/98459592?host=hh.ru",
+    "employer_name": "Шэлп",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Стажер QA",
+    "url": "https://api.hh.ru/vacancies/101908642?host=hh.ru",
+    "employer_name": "ФИНАМ",
+    "salary": {
+      "from": 30000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Junior Computer Vision Engineer",
+    "url": "https://api.hh.ru/vacancies/101962431?host=hh.ru",
+    "employer_name": "ZennoLab",
+    "salary": {
+      "from": 120000,
+      "to": 200000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "ML developer",
+    "url": "https://api.hh.ru/vacancies/99785405?host=hh.ru",
+    "employer_name": "Softintermob LLC",
+    "salary": {
+      "from": 150000,
+      "to": 350000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Middle + / Senior Python Developer",
+    "url": "https://api.hh.ru/vacancies/101932918?host=hh.ru",
+    "employer_name": "АйТиКвик",
+    "salary": {
+      "from": 300000,
+      "to": 370000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Тестировщик AQA",
+    "url": "https://api.hh.ru/vacancies/101776971?host=hh.ru",
+    "employer_name": "Staff-Hub",
+    "salary": {
+      "from": 70000,
+      "to": 150000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Аналитик DWH, удаленно",
+    "url": "https://api.hh.ru/vacancies/102070938?host=hh.ru",
+    "employer_name": "ВкусВилл",
+    "salary": {
+      "from": null,
+      "to": 200000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Аналитик данных",
+    "url": "https://api.hh.ru/vacancies/102059175?host=hh.ru",
+    "employer_name": "Страна Девелопмент",
+    "salary": {
+      "from": 140000,
+      "to": null,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Младший аналитик данных",
+    "url": "https://api.hh.ru/vacancies/100582516?host=hh.ru",
+    "employer_name": "Topface Media",
+    "salary": {
+      "from": 30000,
+      "to": 40000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://api.hh.ru/vacancies/101265452?host=hh.ru",
+    "employer_name": "YATT YULDASHEV PULAT BAXTIYOROVICH",
+    "salary": {
+      "from": null,
+      "to": 500,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Middle Frontend Developer (React)",
+    "url": "https://api.hh.ru/vacancies/100074286?host=hh.ru",
+    "employer_name": "Строительная Компания Велесъ",
+    "salary": {
+      "from": 120000,
+      "to": 140000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Junior Django developer",
+    "url": "https://api.hh.ru/vacancies/101269067?host=hh.ru",
+    "employer_name": "СИКСХЭНДС",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUR"
+    }
+  },
+  {
+    "name": "Remote Chat Support Assistant",
+    "url": "https://api.hh.ru/vacancies/101294647?host=hh.ru",
+    "employer_name": "Ешаев Е.Б",
+    "salary": {
+      "from": 1000,
+      "to": null,
+      "currency": "USD"
+    }
+  }
+]
